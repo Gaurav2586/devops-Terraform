@@ -29,7 +29,8 @@ provider.tf	             described region
 vars.tf                  all the required variable declaration 
 
 Note :- There is NO availbilty zone 1b in us-west-1 , So I choose 1c for Public instance. 
-![Alt text](/Users/gauravagnihotri/Desktop/zone.png?raw=true "zone")
+![Screenshot](https://github.com/Gaurav2586/devops-challenge/blob/master/zone.png?raw=true "zone")
 
-Result:- 
-![Alt text](/Users/gauravagnihotri/Desktop/Result.png?raw=true "Result")
+
+**Result**
+![Screenshot](https://github.com/Gaurav2586/devops-challenge/blob/master/Result.png?raw=true "Result")

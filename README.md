@@ -29,6 +29,8 @@ provider.tf	              described region
 vars.tf                   all the required variable declaration
 
 ```
+# Note :- Keys are the dummy keys
+
 ```
 # How to RUN
 1:- Download the repo

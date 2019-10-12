@@ -18,7 +18,7 @@ The Public Instance's traffic must go through an Internet Gateway in the VPC
 The Private Instance's traffic must go through a NAT Gateway in the VP
 
 Solution:- under the devops-challenge you will find out below .tf files.
-instance.tf		           it will create two instances , one public and one private
+instance.tf it will create two instances , one public and one private \n
 mykey			               private key
 nat.tf			             create NAT and attched with private subnet
 securitygroup.tf	       create security group and allow ssh port

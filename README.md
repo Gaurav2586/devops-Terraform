@@ -1,4 +1,5 @@
-# Interview-devops
+# Devops terraform challenge
+
 # Problem statement :- 
 An assignment is to create a CloudFormation template / terraform stack which will create:
 
